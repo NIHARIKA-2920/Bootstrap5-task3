@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men’s Denim Jacket",
+      "category": "Men’s Wear",
+      "price": 2499,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Women’s Maxi Dress",
+      "category": "Women’s Wear",
+      "price": 1999,
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "name": "Unisex Hoodie",
+      "category": "Streetwear",
+      "price": 1799,
+      "stock": 30
+    }
+  ]
+}
